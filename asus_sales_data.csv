@@ -1,0 +1,60 @@
+Date,Month,Month Number,Region,State,Category,Product Name,Sales Amount,Target Amount,Units Sold
+2024-01-05,Jan,1,North,Delhi,Laptop,ASUS VivoBook 15,85000,80000,25
+2024-01-10,Jan,1,South,Tamil Nadu,Laptop,ASUS ZenBook 14,90000,95000,22
+2024-01-15,Jan,1,West,Maharashtra,Mobile,ASUS ROG Phone 5,60000,65000,30
+2024-01-18,Jan,1,East,West Bengal,Accessories,ASUS Headset,20000,25000,50
+
+2024-02-05,Feb,2,North,Delhi,Laptop,ASUS VivoBook 15,95000,90000,28
+2024-02-10,Feb,2,South,Karnataka,Laptop,ASUS ZenBook 14,88000,92000,21
+2024-02-14,Feb,2,West,Gujarat,Mobile,ASUS ROG Phone 5,62000,60000,32
+2024-02-20,Feb,2,East,Assam,Accessories,ASUS Mouse,18000,22000,45
+
+2024-03-03,Mar,3,North,Punjab,Laptop,ASUS VivoBook 15,100000,95000,30
+2024-03-08,Mar,3,South,Tamil Nadu,Laptop,ASUS ZenBook 14,97000,100000,24
+2024-03-12,Mar,3,West,Maharashtra,Mobile,ASUS ROG Phone 5,65000,70000,33
+2024-03-18,Mar,3,East,West Bengal,Accessories,ASUS Keyboard,22000,20000,48
+
+2024-04-04,Apr,4,North,Delhi,Laptop,ASUS VivoBook 15,110000,105000,32
+2024-04-09,Apr,4,South,Karnataka,Laptop,ASUS ZenBook 14,99000,98000,25
+2024-04-13,Apr,4,West,Gujarat,Mobile,ASUS ROG Phone 5,70000,72000,34
+2024-04-20,Apr,4,East,Assam,Accessories,ASUS Headset,24000,26000,55
+
+2024-05-06,May,5,North,Punjab,Laptop,ASUS VivoBook 15,115000,110000,35
+2024-05-11,May,5,South,Tamil Nadu,Laptop,ASUS ZenBook 14,105000,102000,27
+2024-05-15,May,5,West,Maharashtra,Mobile,ASUS ROG Phone 5,75000,73000,36
+2024-05-21,May,5,East,West Bengal,Accessories,ASUS Mouse,25000,27000,60
+
+2024-06-05,Jun,6,North,Delhi,Laptop,ASUS VivoBook 15,120000,115000,36
+2024-06-10,Jun,6,South,Karnataka,Laptop,ASUS ZenBook 14,110000,108000,29
+2024-06-14,Jun,6,West,Gujarat,Mobile,ASUS ROG Phone 5,78000,80000,37
+2024-06-19,Jun,6,East,Assam,Accessories,ASUS Keyboard,26000,25000,62
+
+2024-07-03,Jul,7,North,Punjab,Laptop,ASUS VivoBook 15,125000,120000,38
+2024-07-08,Jul,7,South,Tamil Nadu,Laptop,ASUS ZenBook 14,115000,112000,30
+2024-07-12,Jul,7,West,Maharashtra,Mobile,ASUS ROG Phone 5,80000,78000,39
+2024-07-18,Jul,7,East,West Bengal,Accessories,ASUS Headset,27000,29000,65
+
+2024-08-04,Aug,8,North,Delhi,Laptop,ASUS VivoBook 15,130000,125000,40
+2024-08-09,Aug,8,South,Karnataka,Laptop,ASUS ZenBook 14,118000,120000,31
+2024-08-13,Aug,8,West,Gujarat,Mobile,ASUS ROG Phone 5,82000,85000,40
+2024-08-19,Aug,8,East,Assam,Accessories,ASUS Mouse,28000,30000,68
+
+2024-09-05,Sep,9,North,Punjab,Laptop,ASUS VivoBook 15,135000,130000,42
+2024-09-10,Sep,9,South,Tamil Nadu,Laptop,ASUS ZenBook 14,120000,118000,32
+2024-09-14,Sep,9,West,Maharashtra,Mobile,ASUS ROG Phone 5,85000,87000,42
+2024-09-20,Sep,9,East,West Bengal,Accessories,ASUS Keyboard,30000,28000,70
+
+2024-10-06,Oct,10,North,Delhi,Laptop,ASUS VivoBook 15,140000,135000,44
+2024-10-11,Oct,10,South,Karnataka,Laptop,ASUS ZenBook 14,125000,130000,33
+2024-10-15,Oct,10,West,Gujarat,Mobile,ASUS ROG Phone 5,88000,90000,44
+2024-10-21,Oct,10,East,Assam,Accessories,ASUS Headset,32000,35000,75
+
+2024-11-05,Nov,11,North,Punjab,Laptop,ASUS VivoBook 15,150000,145000,46
+2024-11-10,Nov,11,South,Tamil Nadu,Laptop,ASUS ZenBook 14,130000,128000,35
+2024-11-14,Nov,11,West,Maharashtra,Mobile,ASUS ROG Phone 5,90000,92000,45
+2024-11-20,Nov,11,East,West Bengal,Accessories,ASUS Mouse,34000,36000,80
+
+2024-12-05,Dec,12,North,Delhi,Laptop,ASUS VivoBook 15,160000,150000,48
+2024-12-10,Dec,12,South,Karnataka,Laptop,ASUS ZenBook 14,140000,135000,38
+2024-12-14,Dec,12,West,Gujarat,Mobile,ASUS ROG Phone 5,95000,98000,48
+2024-12-20,Dec,12,East,Assam,Accessories,ASUS Keyboard,36000,38000,85
