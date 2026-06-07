@@ -25,6 +25,9 @@ This project is a Power BI dashboard analyzing ASUS sales performance across reg
 - Excel / CSV
 
 ## 📷 Dashboard Preview
+
 ![Dashboard 1](Dashboard1.jpg)
-![Dashboard 2](Dashboard2.jpeg)
+
+![Dashboard 2](Dashboard2.jpeg) 
+
 ![Dashboard 3](Dashboard3.jpg)
